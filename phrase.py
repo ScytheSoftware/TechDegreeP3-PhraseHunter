@@ -1,9 +1,6 @@
 import random
 import re
 
-def clear_screen():
-	os.system("cls" if os.name == "nt" else "clear")#check complete
-
 
 class Phrase:
 	
