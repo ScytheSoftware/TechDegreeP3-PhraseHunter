@@ -5,7 +5,7 @@ import os
 from phrase import Phrase
 
 def clear_screen():
-	os.system("cls" if os.name == "nt" else "clear")#check complete
+	os.system("cls" if os.name == "nt" else "clear")
 
 
 class Game:
