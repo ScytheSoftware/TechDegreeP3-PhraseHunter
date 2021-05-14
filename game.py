@@ -7,7 +7,7 @@ from phrase import Phrase
 
 list_of_phrases = ["The boy cried wolf",
                    "Testing the waters",
-                   "Better to have it and not have it than need it and not have it",
+                   "Better to have it and not need it than need it and not have it",
                    "A dog is a man best friend",
                    "Bad news travels fast",
                    "Better late than never",
